@@ -7,7 +7,7 @@ import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
 import AOS from "aos"
 import "aos/dist/aos.css";
-import { use, useEffect } from "react";
+import { useEffect } from "react";
 
 export default function Home() {
   useEffect(() => {
